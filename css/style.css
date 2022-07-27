@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Poppins:wght@500;700&display=swap');
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Poppins', sans-serif;
+    background-color:rgba(128, 128, 128, 0.356);
+}
+.header{
+    background-color: #FFF9F4;
+}
+.custom-color{
+    color:#FA804C;
+}
+.casual-shoes,.services-area{
+    background-color: #E5E5E5;
+}
+.custom-card-bg{
+    background-color:rgba(128, 128, 128, 0.356);
+}
+/* .custom-header-images{
+    max-width: 100%;
+    height: auto;
+} */
